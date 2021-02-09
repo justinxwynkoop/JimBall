@@ -1,5 +1,2 @@
-# Justin Wynkoop
+# Jim Ball Celebration of Life website
 
-Portfolio website using HTML, CSS, and Bootstrap.
-
-[Justin Wynkoop](https://justinwynkoop.com)
