@@ -142,7 +142,7 @@ body {
 }
 
 body#bg-img {
-  background: url(../img/background.jpg);
+  background: url(../img/photos/clouds.jpeg);
   background-attachment: fixed;
   background-size: cover;
 }
